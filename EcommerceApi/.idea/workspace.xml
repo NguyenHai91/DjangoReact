@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54c95368-c209-4585-9fb3-3817f3465104" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/redux/actions/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/redux/actions/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/redux/actions/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/redux/actions/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/redux/actions/wishlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/redux/reducers/bestseller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/redux/reducers/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/redux/reducers/featured.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/redux/reducers/trend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="ProjectId" id="21EN97dsi8urL6BZ6akYrzx5mCv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/src/redux" />
+      <recent name="$PROJECT_DIR$/frontend/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EcommerceApi" type="Python.DjangoServer" factoryName="Django server">
+      <module name="EcommerceApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Shop.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="true" />
+      <option name="customRunCommand" value="runserver" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="db: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="db: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@3764e5bb" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54c95368-c209-4585-9fb3-3817f3465104" name="Default Changelist" comment="" />
+      <created>1637502133288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637502133288</updated>
+      <workItem from="1637502150472" duration="1003000" />
+      <workItem from="1637542281381" duration="1359000" />
+      <workItem from="1637544362694" duration="86000" />
+      <workItem from="1637544471696" duration="26272000" />
+      <workItem from="1637630849129" duration="14284000" />
+      <workItem from="1639363472293" duration="3751000" />
+      <workItem from="1639454139847" duration="422000" />
+      <workItem from="1639706923381" duration="63000" />
+      <workItem from="1639707019499" duration="6830000" />
+      <workItem from="1639798285428" duration="55000" />
+      <workItem from="1639806609905" duration="491000" />
+      <workItem from="1639813962436" duration="1504000" />
+      <workItem from="1639816682099" duration="612000" />
+      <workItem from="1639817540799" duration="1126000" />
+      <workItem from="1639828407102" duration="508000" />
+      <workItem from="1639829737676" duration="228000" />
+      <workItem from="1639830071202" duration="1755000" />
+      <workItem from="1640596814190" duration="40000" />
+      <workItem from="1640752116058" duration="2841000" />
+      <workItem from="1640834472861" duration="1476000" />
+      <workItem from="1641264054337" duration="268000" />
+      <workItem from="1641268025992" duration="2616000" />
+      <workItem from="1642909807665" duration="507000" />
+      <workItem from="1643167478307" duration="1468000" />
+      <workItem from="1645238141909" duration="628000" />
+      <workItem from="1645673797691" duration="850000" />
+      <workItem from="1645846171776" duration="7501000" />
+      <workItem from="1645934939693" duration="1616000" />
+      <workItem from="1646032482566" duration="5352000" />
+      <workItem from="1646100620527" duration="8247000" />
+      <workItem from="1646188262617" duration="5840000" />
+      <workItem from="1646205417826" duration="4007000" />
+      <workItem from="1646276772240" duration="1350000" />
+      <workItem from="1646720772583" duration="7672000" />
+      <workItem from="1646786768518" duration="19283000" />
+      <workItem from="1647050186964" duration="14055000" />
+      <workItem from="1647263648435" duration="130000" />
+      <workItem from="1647313172384" duration="11738000" />
+      <workItem from="1647396914037" duration="10430000" />
+      <workItem from="1647416841674" duration="14876000" />
+      <workItem from="1647482085252" duration="19445000" />
+      <workItem from="1647588374358" duration="3235000" />
+      <workItem from="1648345043410" duration="14508000" />
+      <workItem from="1648426921212" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="0" width="601" height="761" key="#EcommerceApi" timestamp="1646205893594">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state x="338" y="0" width="601" height="761" key="#EcommerceApi/0.0.1280.761@0.0.1280.761" timestamp="1646205893594" />
+    <state x="103" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648347065711">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state x="103" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.761@0.0.1280.761" timestamp="1648347065711" />
+    <state x="377" y="136" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647420868037">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state x="377" y="136" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.761@0.0.1280.761" timestamp="1647420868037" />
+    <state width="812" height="466" key="DebuggerActiveHint" timestamp="1648365309381">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="812" height="466" key="DebuggerActiveHint/0.0.1280.761@0.0.1280.761" timestamp="1648365309381" />
+    <state width="1236" height="214" key="GridCell.Tab.0.bottom" timestamp="1648391625053">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.0.bottom/0.0.1280.761@0.0.1280.761" timestamp="1648391625053" />
+    <state width="1236" height="214" key="GridCell.Tab.0.center" timestamp="1648391625052">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.0.center/0.0.1280.761@0.0.1280.761" timestamp="1648391625052" />
+    <state width="1236" height="214" key="GridCell.Tab.0.left" timestamp="1648391625051">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.0.left/0.0.1280.761@0.0.1280.761" timestamp="1648391625051" />
+    <state width="1236" height="214" key="GridCell.Tab.0.right" timestamp="1648391625052">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.0.right/0.0.1280.761@0.0.1280.761" timestamp="1648391625052" />
+    <state width="1236" height="214" key="GridCell.Tab.1.bottom" timestamp="1648391625054">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.1.bottom/0.0.1280.761@0.0.1280.761" timestamp="1648391625054" />
+    <state width="1236" height="214" key="GridCell.Tab.1.center" timestamp="1648391625053">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.1.center/0.0.1280.761@0.0.1280.761" timestamp="1648391625053" />
+    <state width="1236" height="214" key="GridCell.Tab.1.left" timestamp="1648391625053">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.1.left/0.0.1280.761@0.0.1280.761" timestamp="1648391625053" />
+    <state width="1236" height="214" key="GridCell.Tab.1.right" timestamp="1648391625054">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.1.right/0.0.1280.761@0.0.1280.761" timestamp="1648391625054" />
+    <state width="234" height="498" key="HiddenNamespacesPopup" timestamp="1646277023624">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state width="234" height="498" key="HiddenNamespacesPopup/0.0.1280.761@0.0.1280.761" timestamp="1646277023624" />
+    <state x="148" y="19" key="SettingsEditor" timestamp="1646196926912">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state x="148" y="19" key="SettingsEditor/0.0.1280.761@0.0.1280.761" timestamp="1646196926912" />
+    <state x="519" y="284" width="338" height="226" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1648346802422">
+      <screen x="0" y="0" width="1280" height="761" />
+    </state>
+    <state x="519" y="284" width="338" height="226" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1280.761@0.0.1280.761" timestamp="1648346802422" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Python.DjangoServer">
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
